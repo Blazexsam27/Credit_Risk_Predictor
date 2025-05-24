@@ -4,7 +4,7 @@ A machine learning-powered web app that predicts whether a loan applicant is a h
 
 ## 🚀 Demo
 
-[👉 Live Demo Link (optional)](https://creditrisk-predictor.streamlit.app/)
+[👉 Live Demo Link ](https://creditrisk-predictor.streamlit.app/)
 
 ## 📊 Features
 
